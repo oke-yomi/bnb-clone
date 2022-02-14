@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import Layout from "../components/Layout";
 import InfoCard from "../components/InfoCard";
+// import Mapbox from "../components/Mapbox";
 import { format } from "date-fns";
 
 function Search({searchResults}) {
@@ -48,6 +49,10 @@ function Search({searchResults}) {
 						)}
 					</div>
 				</section>
+
+				{/* <section className='hidden xl:inline-flex xl:min-w-[600px]'>
+					<Mapbox searchResults={searchResults} />
+				</section> */}
 			</main>
 		</Layout>
 	);

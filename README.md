@@ -1,4 +1,4 @@
-Vercel Demo Link: https://bnb-clone.vercel.app/
+Vercel Demo Link: https://bnb-clone-8pgj21qcq-oke-yomi.vercel.app
 
 # Next.js + Tailwind CSS Example
 
